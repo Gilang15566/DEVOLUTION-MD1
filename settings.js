@@ -8,12 +8,12 @@ Join Untuk Menggunakan Bot
 const fs = require('node:fs');
 
 const config = {
-    owner: ["6282181938329", "62895326884022"],
+    owner: ["6285259357392", "6285303577935"],
     name: "~ Devolution",
     sessions: "Devo-Sessions",
     sticker: {
       packname: "Devolution",
-      author: "Selxyzz"
+      author: "GG"
     },
     apikey: "5SdBTI3hMfDFIOZxJ7",
     apikeyPrem: "pasonki23",
